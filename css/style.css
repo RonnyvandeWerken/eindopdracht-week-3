@@ -1,0 +1,21 @@
+body {
+      background-color: lightblue;
+    }
+    .img1 {
+      float: right;
+      border-color: black;
+      border-width: 2px;
+      border-style: solid;
+      width: 128px;
+      height: 128px;
+      transform:rotate(90deg)
+    }
+
+    .img2 {
+      float: right;
+      border-color: black;
+      border-width: 2px;
+      border-style: solid;
+      height: 128px;
+      width: 128px;
+    }
